@@ -9,7 +9,7 @@ Recomendaciones se utilizó :
 1. Clonar el repositorio de GitHub
 
 ```bash
-https://github.com/aldairle95/laboratorios_XYZ.git
+git clone https://github.com/aldairle95/laboratorios_XYZ.git
 ```
 
 2. Acceder a la carpeta del repositorio
