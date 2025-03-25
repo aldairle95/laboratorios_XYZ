@@ -1,5 +1,11 @@
 # Pasos para la instalación del proyecto en desarrollo local
 
+Recomendaciones se utilizó : 
+- "vue": "^2.7.16"
+- PHP 8.2.4
+- Laravel Framework 8.83.29
+- la libreria  "barryvdh/laravel-dompdf": "^2.2"
+  
 1. Clonar el repositorio de GitHub
 
 ```bash
