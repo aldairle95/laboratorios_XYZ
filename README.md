@@ -49,7 +49,7 @@ php artisan migrate  --seed
 8. Ejecutar el servidor de desarrollo
 
 ```bash
-php artisan sever
+php artisan serve
 ```
 
 
