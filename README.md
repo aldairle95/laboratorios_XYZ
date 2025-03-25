@@ -23,6 +23,9 @@ cd laboratorios_xyz
 ```bash
 composer install
 ```
+```bash
+composer update
+```
 
 4. Copiar .env.example a .env
 
