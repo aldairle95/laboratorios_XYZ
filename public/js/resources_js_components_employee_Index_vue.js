@@ -467,7 +467,7 @@ var render = function () {
             staticClass: "form-control rounded-pill",
             attrs: {
               type: "search",
-              placeholder: "Filter ID",
+              placeholder: "Filter Code",
               "aria-label": "Buscar",
               "aria-describedby": "search-addon",
             },
@@ -496,7 +496,7 @@ var render = function () {
             staticClass: "form-control rounded-pill",
             attrs: {
               type: "search",
-              placeholder: "Filter name",
+              placeholder: "Filter First Name",
               "aria-label": "Buscar",
               "aria-describedby": "search-addon",
             },

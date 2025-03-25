@@ -4,11 +4,11 @@
     <div class="container mt-3 text-center">
       <div class="d-flex justify-content-center gap-2">
         <div class="rounded">
-          <input type="search" class="form-control rounded-pill" v-model="dataFilter.id" placeholder="Filter ID" aria-label="Buscar"
+          <input type="search" class="form-control rounded-pill" v-model="dataFilter.id" placeholder="Filter Code" aria-label="Buscar"
             aria-describedby="search-addon">
         </div>
         <div class="rounded">
-          <input type="search" class="form-control rounded-pill" v-model="dataFilter.name" placeholder="Filter name" aria-label="Buscar"
+          <input type="search" class="form-control rounded-pill" v-model="dataFilter.name" placeholder="Filter First Name" aria-label="Buscar"
             aria-describedby="search-addon">
         </div>
        
