@@ -3,13 +3,13 @@
 1. Clonar el repositorio de GitHub
 
 ```bash
-git clone https://github.com/hefadumo15/sistema-room-911.git
+https://github.com/aldairle95/laboratorios_XYZ.git
 ```
 
 2. Acceder a la carpeta del repositorio
 
 ```bash
-cd sistema-room-911
+cd laboratorios_xyz
 ```
 
 3. Instalar dependencias
@@ -43,7 +43,7 @@ php artisan migrate  --seed
 8. Ejecutar el servidor de desarrollo
 
 ```bash
-php artisan seve
+php artisan sever
 ```
 
-## Y listo!!!
+## !!!
